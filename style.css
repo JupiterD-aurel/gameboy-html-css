@@ -1,0 +1,96 @@
+body{
+    margin: 100px 100px 100px 600px;
+}
+
+
+.gameboy{
+    background-color: brown;
+    border-radius: 15px 15px 50px 15px;
+    height: 550px;
+    width: 350px;
+    padding-top: 10px ;
+    
+}
+
+.pro{
+    background-color:rgb(240, 248, 236) ;
+    margin-left: 20px;
+    border-radius: 10px 10px 10px 10px;
+    height: 180px;
+    width: 240px;
+}
+
+.screen1{
+    background-color: black;
+    margin: 30px 30px 30px 30px;
+    padding-top: 10px;
+    border-radius: 10px 10px 10px 10px;
+    height: 230px;
+    width: 290px;
+    text-align: top;
+    text-overflow: clip;
+    color: cadetblue;
+}
+
+.screen2{
+    background-image: url(pokemon3.gif);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    margin: 0px 0px 0px 50px;
+    height: 160px;
+    width: 260px;
+   
+} 
+
+.bottom1{
+    background-color: rgb(53, 4, 4);
+    height: 50px;
+    width: 50px;
+    margin-top: 95px;
+    margin-left: 250px;
+    border-radius: 50%;
+}
+
+.bottom2{
+    background-color: rgb(53, 4, 4);
+    height: 50px;
+    width: 50px;
+    margin-top: -10px;
+    margin-left: 190px;
+    border-radius: 50%;
+}
+
+.croix-vertical{
+    background-color: rgb(53, 4, 4);
+    height: 80px;
+    width: 30px;
+    margin-top: -80px;
+    margin-left: 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.croix-horizontal{
+    background-color: rgb(53, 4, 4);
+    height: 30px;
+    width: 80px;
+    margin-top: -53px;
+    margin-left: -5px ;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+.select{
+    background-color: rgb(53, 4, 4);
+    height: 6px;
+    width: 15px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.start{
+    background-color: rgb(53, 4, 4);
+    height: 6px;
+    width: 15px;
+    margin-top: -5px;
+    margin-left: 120px;
+}
